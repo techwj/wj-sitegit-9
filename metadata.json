@@ -1,0 +1,59 @@
+{
+  "siteId": "viral-restaurant-honest-review",
+  "generatedAt": "2026-06-02T15:38:12.930910",
+  "categories": [
+    "beginner-viral-restaurant-honest-review",
+    "advanced-viral-restaurant-honest-review",
+    "tips-viral-restaurant-honest-review",
+    "history-viral-restaurant-honest-review",
+    "trending-viral-restaurant-honest-review",
+    "tutorials-viral-restaurant-honest-review"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-viral-restaurant-honest-review",
+      "category_name": "Beginner Viral Restaurant Honest Review"
+    },
+    {
+      "category_slug": "advanced-viral-restaurant-honest-review",
+      "category_name": "Advanced Viral Restaurant Honest Review"
+    },
+    {
+      "category_slug": "tips-viral-restaurant-honest-review",
+      "category_name": "Viral Restaurant Honest Review Tips"
+    },
+    {
+      "category_slug": "history-viral-restaurant-honest-review",
+      "category_name": "Viral Restaurant Honest Review History"
+    },
+    {
+      "category_slug": "trending-viral-restaurant-honest-review",
+      "category_name": "Trending Viral Restaurant Honest Review"
+    },
+    {
+      "category_slug": "tutorials-viral-restaurant-honest-review",
+      "category_name": "Viral Restaurant Honest Review Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "viral-restaurant-honest-review",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Viral Restaurant Honest Review Central",
+    "articles_per_row": 3
+  }
+}
